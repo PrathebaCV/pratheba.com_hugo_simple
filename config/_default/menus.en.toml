@@ -37,6 +37,11 @@ url = "/authors"
 
 [[main]]
 parent = "Pages"
+name = "Book Reviews"
+url = "/book_reviews"
+
+[[main]]
+parent = "Pages"
 name = "Categories"
 url = "/categories"
 
