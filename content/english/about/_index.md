@@ -1,8 +1,8 @@
 ---
-title: "Hey, I am Pratheba Chandramohan!"
+title: "Pratheba Chandramohan"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/JAYA6822.JPG"
 draft: false
 ---
 
