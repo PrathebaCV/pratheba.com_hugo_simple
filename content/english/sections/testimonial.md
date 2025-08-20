@@ -1,29 +1,39 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "📚 வாசகர் பக்கம்"
+description: "என் எழுத்துக்களும் வாசகர்களின் கருத்துக்களும்"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "ச.தமிழ்ச்செல்வன்"
+    designation: "எழுத்தாளர், திறனாய்வாளர்"
+    avatar: "/images/Tselvan.jpg"
+    content: "பிரதீபா சந்திரமோகனின் 'இந்திர நீலமும் இமைக்கா இரவுகளும்' என்கிற இந்நாவல் முற்றிலும் வித்தியாசமான ஒரு புதிய முயற்சி. வாசிக்கத் துவங்கினால் கீழே வைக்க முடியாமல் சரசரவென நகர்கிறது கதை."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "சுரபி இராமச்சந்திரன்"
+    designation: "கவிஞர்"
+    avatar: "/images/surabi.jpg"
+    content: "எழுத்தாளரின் முதல் படைப்பு இது என்பதை நம்ப முடியவில்லை. எள்ளலும் துள்ளலும் கவித்துவமும் இழைந்தோடும் அழகிய மொழி நடையால் அலுப்பு சலிப்பில்லாத ஒரு ஆனந்தமான வாசிப்பு அனுபவத்தைப் பெற முடிகிறது."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "செள.ஸ்டாலின்பாரதி"
+    designation: "பொறியாளர்"
+    avatar: "/images/stalin.jpg"
+    content: "நமது வரலாற்றை மக்களுக்கு சொல்ல வேண்டும் அதை காப்பாற்ற வேண்டும் என்ற எண்ணம் எழுத்தாளருக்கு இருப்பது தெரிகிறது. இளம் வயது எழுத்தாளரான இவர் வருங்காலத்தில் நிச்சயம் சிறப்பான படைப்புகளை தருவார்."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "கற்பகாம்பாள் கண்ணதாசன்"
+    designation: "எழுத்தாளர்"
+    avatar: "/images/karpagam.jpg"
+    content: "கதாப்பாத்திரங்களின் சின்னச்சின்ன உடல்மொழிகள், அசைவுகள், உணர்வுகளை எழுத்தில் கொண்டுவந்திருக்கிறார் ஆசிரியர். அதுதான் கதையை உயிரோட்டமுள்ளதாக மாற்றியிருக்கிறது."
+
+  - name: "Preethi Rajkumar"
+    designation: "வாசகர்"
+    avatar: "/images/preethi.jpg"
+    content: "இந்த புத்தகம் என்னை மிகவும் கவர்ந்தது. ஒவ்வொரு பக்கத்திலும் ஆச்சர்யம் காத்திருந்தது. மிகச் சிறந்த கதை சொல்லல்."
+
+  - name: "Deepa Viyal"
+    designation: "வாசகர்"
+    avatar: "/images/deepa.jpg"
+    content: "அருமையான நாவல். காலத்தை கடந்து செல்லும் கதை மிகவும் 흥미롭게 இருந்தது. அனைவரும் படிக்க வேண்டிய புத்தகம்."
 
 # don't create a separate page
 build:
