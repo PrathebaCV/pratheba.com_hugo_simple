@@ -1,5 +1,5 @@
 ---
-title: "Adventure movie patha madri irundhuchu"
+title: "Preethi Rajkumar"
 categories: ["Book Reviews"]
 tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்", "வாசகர்கருத்து"]
 draft: false

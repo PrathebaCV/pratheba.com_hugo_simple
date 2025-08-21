@@ -22,9 +22,15 @@ url = "/blog"
 weight = 4
 
 [[main]]
-name = "Contact"
-url = "/contact"
+name = "Portfolio"
+url = "/portfolio"
 weight = 5
+
+[[main]]
+name = "Gallery"
+url = "/gallery"
+weight = 6
+
 
 
 # footer menu
@@ -44,6 +50,12 @@ url = "/blog"
 weight = 3
 
 [[footer]]
-name = "Contact"
-url = "/contact"
+name = "Portfolio"
+url = "/portfolio"
 weight = 4
+
+[[footer]]
+name = "Gallery"
+url = "/gallery"
+weight = 5
+
