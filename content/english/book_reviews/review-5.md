@@ -2,7 +2,7 @@
 title: "Writer Raghu Raman"
 meta_title: "வாசகர் கருத்து #5 - இந்திர நீலமும் இமைக்கா இரவுகளும்"
 description: "Kindle Writer Raghu Raman அவர்களின் வாசகர் கருத்து - இந்திர நீலமும் இமைக்கா இரவுகளும்"
-date: 2023-04-19T12:00:00Z
+date: 2023-04-23T12:00:00Z
 image: "/images/book-cover.jpg"
 categories: ["Book Reviews"]
 tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்", "வாசகர்கருத்து"]
