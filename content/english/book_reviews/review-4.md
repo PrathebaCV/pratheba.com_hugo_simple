@@ -2,7 +2,7 @@
 title: "From Deepa Viyal"
 meta_title: "வாசகர் கருத்து #4 - இந்திர நீலமும் இமைக்கா இரவுகளும்"
 description: "Deepa Viyal அவர்களின் வாசகர் கருத்து - இந்திர நீலமும் இமைக்கா இரவுகளும்"
-date: 2023-04-19T12:00:00Z
+date: 2023-04-22T12:00:00Z
 image: "/images/deepaviyal.jpg"
 categories: ["Book Reviews"]
 tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்", "வாசகர்கருத்து"]
