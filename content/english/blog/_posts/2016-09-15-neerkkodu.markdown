@@ -4,7 +4,7 @@ title: நீர்க்கோடு!!!
 date: '2016-09-15 11:59:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/neerkodu.jpg
+image: assets/images/size/w1000/2017/10/neerkodu.jpg
 ---
 
 நீர்க்கோடு!!!

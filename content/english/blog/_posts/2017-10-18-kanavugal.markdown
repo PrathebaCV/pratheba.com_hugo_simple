@@ -2,7 +2,7 @@
 layout: post
 title: கனவுகள்…
 date: '2017-10-18 13:44:45'
-image: content/images/size/w2000/2018/01/pratheba.com_kanavugal.png
+image: assets/images/size/w2000/2018/01/pratheba.com_kanavugal.png
 ---
 
 கனவுகள்…

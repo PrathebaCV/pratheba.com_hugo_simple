@@ -2,7 +2,7 @@
 layout: post
 title: கடிதம்...
 date: '2017-10-30 02:52:31'
-image: content/images/2018/09/letter.jpg
+image: assets/images/2018/09/letter.jpg
 ---
 
 கடிதம்...

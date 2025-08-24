@@ -4,7 +4,7 @@ title: கவியொன்றெழுத எத்தனித்தேன்
 date: '2017-07-23 12:25:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/kavi_ondru--2-.jpg
+image: assets/images/size/w1000/2017/10/kavi_ondru--2-.jpg
 ---
 
 கவியொன்றெழுத எத்தனித்தேன்…

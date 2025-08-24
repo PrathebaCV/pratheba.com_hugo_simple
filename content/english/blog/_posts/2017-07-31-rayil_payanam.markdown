@@ -5,8 +5,9 @@ date: '2017-07-31 11:47:00'
 tags:
 - pratheba-kavithaigal
 - featured
-image: content/images/size/w1000/2017/10/rayil_payanam.jpg
+image: /assets/images/2017/10/rayil_payanam.jpg
 ---
+
 
 இப்பதிவு, 2014 செப்டம்பர் மாதம் சென்ற டெல்லி பயணத்தின் சிறுபகுதி…என் பயண அனுபவத்தை நட்புகளுக்கு Whatsapp இல் அனுப்பிவைக்க நெய்யப்பட்டது…
 

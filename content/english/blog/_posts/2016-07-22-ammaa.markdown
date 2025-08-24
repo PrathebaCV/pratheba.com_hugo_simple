@@ -5,7 +5,7 @@ date: '2016-07-22 12:13:00'
 tags:
 - pratheba-kavithaigal
 - featured
-image: content/images/size/w1000/2017/10/amma.jpg
+image: assets/images/size/w1000/2017/10/amma.jpg
 ---
 
 அம்மா..!

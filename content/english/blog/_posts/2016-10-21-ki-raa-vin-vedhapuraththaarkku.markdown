@@ -2,7 +2,7 @@
 layout: post
 title: கி.ரா வின் வேதபுரத்தார்க்கு…
 date: '2016-10-21 12:40:00'
-image: content/images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
+image: assets/images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
 ---
 
 கி.ரா வின் வேதபுரத்தார்க்கு…

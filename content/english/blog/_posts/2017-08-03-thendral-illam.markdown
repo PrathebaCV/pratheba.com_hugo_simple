@@ -4,7 +4,7 @@ title: தென்றல்….
 date: '2017-08-03 12:23:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/2018/09/thendral.jpg
+image: assets/images/2018/09/thendral.jpg
 ---
 
 எண்திசை மலர் சேர்ந்த பூந்தோட்டம்….

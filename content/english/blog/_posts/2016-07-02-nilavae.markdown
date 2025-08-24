@@ -4,7 +4,7 @@ title: நிலவே முகம் காட்டு....
 date: '2016-07-02 12:02:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/nilave.jpg
+image: assets/images/size/w1000/2017/10/nilave.jpg
 ---
 
 நிலவே… முகம் காட்டு….

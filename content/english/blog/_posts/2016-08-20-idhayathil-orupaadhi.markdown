@@ -4,7 +4,7 @@ title: இதயத்தில் ஒருபாதி இரவல்கொ�
 date: '2016-08-20 12:28:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/idhayathil_oru.jpg
+image: assets/images/size/w1000/2017/10/idhayathil_oru.jpg
 ---
 
 இதயத்தில் ஒருபாதி இரவல்கொடு…
