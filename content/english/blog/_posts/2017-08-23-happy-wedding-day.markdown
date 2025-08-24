@@ -5,7 +5,7 @@ date: '2017-08-23 12:33:00'
 tags:
 - pratheba-kavithaigal
 - featured
-image: content/images/size/w1000/2017/10/mark.JPG
+image: assets/images/size/w1000/2017/10/mark.JPG
 ---
 
 மார்க்கண்டேயருக்கு மணநாள்…

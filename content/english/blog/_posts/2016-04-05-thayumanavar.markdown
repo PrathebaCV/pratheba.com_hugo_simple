@@ -4,7 +4,6 @@ title: தாயும் ஆனவர்…
 date: '2016-04-05 12:08:00'
 image: 
 ---
-{{< image src="/assets/images/2017/10/thayumaanavar.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 தாயும் ஆனவர்…
 

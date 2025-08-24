@@ -4,7 +4,7 @@ title: மழைக்கால மாலை…
 date: '2017-08-09 12:19:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/maalaikala-mazhai.jpg
+image: assets/images/size/w1000/2017/10/maalaikala-mazhai.jpg
 ---
 
 

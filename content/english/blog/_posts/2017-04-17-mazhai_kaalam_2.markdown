@@ -5,7 +5,7 @@ date: '2017-04-17 11:50:00'
 tags:
 - pratheba-kavithaigal
 - bangalore-days
-image: content/images/size/w1000/2017/10/bangalore_rain.jpg
+image: assets/images/size/w1000/2017/10/bangalore_rain.jpg
 ---
 
 பெங்களூரில் ஒரு மழைப்பொழுது…

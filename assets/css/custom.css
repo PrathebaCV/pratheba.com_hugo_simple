@@ -1,1 +1,29 @@
 /* Add your own custom styles here */
+/* Tamil text styling */
+.tamil-content {
+    font-family: 'Noto Sans Tamil', serif;
+    line-height: 1.8;
+    font-size: 1.1em;
+}
+
+/* Poetry specific styling */
+.poem {
+    font-style: italic;
+    margin: 2rem 0;
+    padding: 1rem;
+    border-left: 3px solid #ddd;
+}
+
+/* Custom colors for your site */
+:root {
+    --primary-color: #your-color;
+    --text-color: #your-text-color;
+}
+/* Hero section background image */
+.hero-section {
+    background-image: url('/assets/images/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px; /* Add some height */
+}

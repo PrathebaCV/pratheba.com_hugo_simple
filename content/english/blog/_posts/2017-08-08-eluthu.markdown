@@ -4,7 +4,7 @@ title: எழுத்து…
 date: '2017-08-08 17:15:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/eluthu.jpg
+image: assets/images/size/w1000/2017/10/eluthu.jpg
 ---
 
 எழுத்து…

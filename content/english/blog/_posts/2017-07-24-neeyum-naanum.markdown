@@ -4,7 +4,7 @@ title: நீயும் நானும்…
 date: '2017-07-24 12:21:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/parrots.jpg
+image: assets/images/size/w1000/2017/10/parrots.jpg
 ---
 
 நீயும் நானும்…

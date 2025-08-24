@@ -33,7 +33,6 @@ features:
       - "எள்ளலும் துள்ளலும் கவித்துவமும் இழைந்தோடும் அழகிய மொழி நடை"
       - "வரலாற்று ஆர்வம் கொண்ட வாசகர்களுக்கு இந்நூல் நிச்சயம் பிடிக்கும்"
       - "முற்றிலும் வித்தியாசமான ஒரு புதிய முயற்சி"
-      
     button:
       enable: true
       label: "Purchase on Amazon"
@@ -48,6 +47,8 @@ features:
       enable: true
       label: "ThamizhBooks.in"
       link:  "https://thamizhbooks.com/product/indira-neelamum-imaikka-iravugalum/"  
+
+
 
     button:
       enable: true

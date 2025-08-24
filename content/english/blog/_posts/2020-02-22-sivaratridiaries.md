@@ -6,7 +6,7 @@ date: '2020-02-22 08:56:44'
 tags:
 - vazhkai-pathivugal
 - featured
-image: content/images/size/w2000/2020/02/PicsArt_02-22-10.06.33.jpg
+image: assets/images/size/w2000/2020/02/PicsArt_02-22-10.06.33.jpg
 ---
 ரொம்ப நாளா என் வலைப்பக்கம் தூங்குது....ஏதோ ஒன்னு எழுதனும்ன்னு நினைச்சு நினைச்சு எல்லாம் பாதியில் தொங்குது....
 

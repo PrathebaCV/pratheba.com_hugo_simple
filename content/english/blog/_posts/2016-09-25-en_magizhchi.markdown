@@ -4,7 +4,7 @@ title: கவிதை
 date: '2016-09-25 12:06:00'
 tags:
 - pratheba-kavithaigal
-image: content/images/size/w1000/2017/10/kavidhai.jpg
+image: assets/images/size/w1000/2017/10/kavidhai.jpg
 ---
 
 கவிதை
