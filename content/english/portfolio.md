@@ -37,3 +37,13 @@ draft: false
 ### இந்திரநீலமும் இமைக்கா இரவுகளும்
 **Amazon Kindle**  
 [Amazon Kindle Link](https://amzn.in/d/5HDYfvT)
+
+## வீடியோ உள்ளடக்கம்
+
+### Book Reading & Discussions
+
+{{< youtube 7gnoVmC7q7E >}}
+
+{{< youtube _-RzzGMWBg8 >}}
+
+{{< youtube sMTfmG2hdZE >}}
