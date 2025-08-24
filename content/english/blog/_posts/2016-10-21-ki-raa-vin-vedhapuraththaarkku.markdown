@@ -4,6 +4,7 @@ title: கி.ரா வின் வேதபுரத்தார்க்க�
 date: '2016-10-21 12:40:00'
 image: assets/images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
 ---
+{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
 
 கி.ரா வின் வேதபுரத்தார்க்கு…
 
