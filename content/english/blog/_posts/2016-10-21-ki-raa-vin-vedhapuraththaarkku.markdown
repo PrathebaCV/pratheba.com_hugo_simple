@@ -2,9 +2,9 @@
 layout: post
 title: கி.ரா வின் வேதபுரத்தார்க்கு…
 date: '2016-10-21 12:40:00'
-image: assets/images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
+image: images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
 ---
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/2017/10/PicsArt_10-29-12.16.04.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true"  >}}
 
 கி.ரா வின் வேதபுரத்தார்க்கு…
 
@@ -13,3 +13,4 @@ image: assets/images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
 திரு.கி. இராஜநாராயணனின் படைப்பு… வாழ்க்கையைப்பற்றி ஒரு வாழ்ந்த மனிதர் தெக்கத்தி மொழியில் எழுதிய நூல்… முன்பு இவரின் சிறுகதைகள் படித்ததுண்டு…சில… பள்ளிப்புத்தகத்தில்…, சில… இணையத்தில்… இது கொஞ்சம் வித்தியாசமான… ஆத்மார்த்தமான பதிவு…
 
 ” எனக்கு நினைவு என்பது எனது எழுத்துக்கள் தான்…” என்று நூலை முடிக்கிறார்… யதார்த்தம் நூல்முழுவதும் நிறைந்துள்ளது… நல்ல புத்தகம்… படிக்கும் ஆர்வத்தைக்கூட்டும் என்பதை இதன் மூலம் உணர்கிறேன்…. கி.ரா வின் வேதபுரத்தாற்கு….
+

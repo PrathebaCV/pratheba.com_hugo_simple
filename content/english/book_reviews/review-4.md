@@ -9,7 +9,8 @@ tags: ["இந்திரநீலமும்", "இமைக்காஇர�
 draft: false
 ---
 
-![இந்திர நீலமும் இமைக்கா இரவுகளும் - Review by Deepa Viyal](/images/deepaviyal.jpg)
+{{< image src="/images/image copy 3.png" caption="" alt="From Deepa Viyal" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="From Deepa Viyal"  webp="true"  >}}
+
 
 ## இந்திர நீலமும் இமைக்கா இரவுகளும்💙
 

@@ -2,8 +2,11 @@
 layout: post
 title: கனவுகள்…
 date: '2017-10-18 13:44:45'
-image: assets/images/size/w2000/2018/01/pratheba.com_kanavugal.png
+image: images/size/w2000/2018/01/pratheba.com_kanavugal.png
 ---
+
+{{< image src="images/size/w2000/2018/01/pratheba.com_kanavugal.png" caption="" alt="கனவுகள்…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கனவுகள்…"  webp="true"  >}}
+
 
 கனவுகள்…
 

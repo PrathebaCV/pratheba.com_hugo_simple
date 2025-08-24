@@ -5,8 +5,11 @@ date: '2017-04-17 11:50:00'
 tags:
 - pratheba-kavithaigal
 - bangalore-days
-image: assets/images/size/w1000/2017/10/bangalore_rain.jpg
+image: images/size/w1000/2017/10/bangalore_rain.jpg
 ---
+
+{{< image src="images/size/w1000/2017/10/bangalore_rain.jpg" caption="" alt="பெங்களூரில் ஒரு மழைப்பொழுது…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="பெங்களூரில் ஒரு மழைப்பொழுது…"  webp="true"  >}}
+
 
 பெங்களூரில் ஒரு மழைப்பொழுது…
 
