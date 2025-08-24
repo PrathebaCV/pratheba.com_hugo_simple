@@ -12,8 +12,6 @@ draft: false
 {{< image src="/images/image copy 3.png" caption="" alt="From Deepa Viyal" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="From Deepa Viyal"  webp="true"  >}}
 
 
-![இந்திர நீலமும் இமைக்கா இரவுகளும் - Review by Deepa Viyal](/images/deepaviyal.jpg)
-
 ## இந்திர நீலமும் இமைக்கா இரவுகளும்💙
 
 ஆசிரியர் Pratheba C Vigneshன் முதல் படைப்பு இது...
