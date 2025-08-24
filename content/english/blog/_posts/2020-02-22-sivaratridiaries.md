@@ -8,6 +8,9 @@ tags:
 - featured
 image: assets/images/size/w2000/2020/02/PicsArt_02-22-10.06.33.jpg
 ---
+
+{{< image src="images/size/w2000/2020/02/PicsArt_02-22-10.06.33.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true"  >}}
+
 ரொம்ப நாளா என் வலைப்பக்கம் தூங்குது....ஏதோ ஒன்னு எழுதனும்ன்னு நினைச்சு நினைச்சு எல்லாம் பாதியில் தொங்குது....
 
 நடுவில் ஒரு update வந்து Ghost blog செயலியையும் என்னோட Draft களையும் முடக்கிடுச்சு. கஷ்டப்பட்டு எழுதின எதுவும் மறுபடி தொடர முடியாமல் போனது.

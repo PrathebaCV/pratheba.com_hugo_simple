@@ -8,6 +8,9 @@ tags:
 image: /assets/images/2017/10/rayil_payanam.jpg
 ---
 
+{{< image src="/images/2017/10/rayil_payanam.jpg" caption="" alt="ரயில்பயண ஞாபகங்கள்…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ரயில்பயண ஞாபகங்கள்…"  webp="true"  >}}
+
+
 
 இப்பதிவு, 2014 செப்டம்பர் மாதம் சென்ற டெல்லி பயணத்தின் சிறுபகுதி…என் பயண அனுபவத்தை நட்புகளுக்கு Whatsapp இல் அனுப்பிவைக்க நெய்யப்பட்டது…
 

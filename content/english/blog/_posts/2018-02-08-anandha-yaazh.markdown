@@ -6,8 +6,11 @@ date: '2018-02-08 08:56:44'
 tags:
 - vazhkai-pathivugal
 - featured
-image: assets/images/size/w2000/2018/02/upload-1518080126.jpg
+image: images/size/w2000/2018/02/upload-1518080126.jpg
 ---
+
+{{< image src="images/size/w2000/2018/02/upload-1518080126.jpg" caption="" alt="ஆனந்த யாழ்..." height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ஆனந்த யாழ்..."  webp="true"  >}}
+
 
 அன்பெனும் மழையில் நம்மை அதிகம் நனைய வைப்பது எப்போதுமே பெற்றோர் தான். அவர்கள் அன்பிற்கு நாம் அவர்கள் மீது செலுத்தும் அன்பு என்றும் ஈடாகாது. இதை புரிந்துகொள்ள நமக்கு வாழ்நாள் முழுதும் அவகாசம் வேண்டும்.
 

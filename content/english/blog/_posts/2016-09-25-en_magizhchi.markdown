@@ -4,8 +4,11 @@ title: கவிதை
 date: '2016-09-25 12:06:00'
 tags:
 - pratheba-kavithaigal
-image: assets/images/size/w1000/2017/10/kavidhai.jpg
+image: images/size/w1000/2017/10/kavidhai.jpg
 ---
+
+{{< image src="images/size/w1000/2017/10/kavidhai.jpg" caption="" alt="கவிதை" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கவிதை"  webp="true"  >}}
+
 
 கவிதை
 
