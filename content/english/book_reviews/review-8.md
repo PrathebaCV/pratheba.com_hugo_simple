@@ -3,13 +3,12 @@ title: "எழுத்தாளர் பிரேம ராகவி விம
 meta_title: "வாசகர் கருத்து #8 - இந்திர நீலமும் இமைக்கா இரவுகளும்"
 description: "Video Review"
 date: 2023-04-19T12:00:00Z
-image: "/images/book-cover.jpg"
 categories: ["Book Reviews"]
 tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்", "வாசகர்கருத்து", "video"]
 draft: false
 ---
-
-{{< image src="/images/book-cover.jpg" caption="" alt="எழுத்தாளர் பிரேம ராகவி விமர்சனம்" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="எழுத்தாளர் பிரேம ராகவி விமர்சனம்"  webp="true"  >}}
+<!-- 
+{{< image src="/images/book-cover.jpg" caption="" alt="எழுத்தாளர் பிரேம ராகவி விமர்சனம்" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="எழுத்தாளர் பிரேம ராகவி விமர்சனம்"  webp="true"  >}} -->
 
 
 ## Video Review - இந்திர நீலமும் இமைக்கா இரவுகளும்

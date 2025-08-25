@@ -3,13 +3,12 @@ title: "Preethi Rajkumar"
 meta_title: "வாசகர் கருத்து #1 - இந்திர நீலமும் இமைக்கா இரவுகளும்"
 description: "பத்து வருடங்களுக்கு பிறகு ஒரே நாளில் படித்த புத்தகமாகவும், kindle app ல், தொடு திரையில் படித்த முதல் புத்தகம் என்ற அனுபவத்தை தந்த நூல்."
 date: 2023-04-19T12:00:00Z
-image: "/images/book-cover.jpg"
 categories: ["Book Reviews"]
 tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்", "வாசகர்கருத்து"]
 draft: false
 ---
 
-{{< image src="/images/book-cover.jpg" caption="" alt="இந்திர நீலமும் இமைக்கா இரவுகளும்" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="இந்திர நீலமும் இமைக்கா இரவுகளும்"  webp="true"  >}}
+<!-- {{< image src="/images/book-cover.jpg" caption="" alt="இந்திர நீலமும் இமைக்கா இரவுகளும்" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="இந்திர நீலமும் இமைக்கா இரவுகளும்"  webp="true"  >}} -->
 
 Preethi Rajkumar
 

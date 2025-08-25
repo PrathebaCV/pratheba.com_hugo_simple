@@ -9,7 +9,7 @@ tags: ["இந்திரநீலமும்", "இமைக்காஇர�
 draft: false
 ---
 
-{{< image src="/images/book-cover.jpg" caption="" alt="Writer Raghu Raman" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Writer Raghu Raman"  webp="true"  >}}
+<!-- {{< image src="/images/book-cover.jpg" caption="" alt="Writer Raghu Raman" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Writer Raghu Raman"  webp="true"  >}} -->
 
 
 ![இந்திர நீலமும் இமைக்கா இரவுகளும் - Book Cover](/images/book-cover.jpg)
