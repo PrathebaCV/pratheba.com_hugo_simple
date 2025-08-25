@@ -5,7 +5,6 @@ date: '2017-08-23 12:33:00'
 tags:
 - pratheba-kavithaigal
 - featured
-image: images/size/w1000/2017/10/mark.JPG
 ---
 
 {{< image src="images/size/w1000/2017/10/mark.JPG" caption="" alt="மார்க்கண்டேயருக்கு மணநாள்…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="மார்க்கண்டேயருக்கு மணநாள்…"  webp="true"  >}}

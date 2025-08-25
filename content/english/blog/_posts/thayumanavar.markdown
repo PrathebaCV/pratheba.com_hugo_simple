@@ -2,7 +2,6 @@
 layout: post
 title: தாயும் ஆனவர்…
 date: '2016-04-05 12:08:00'
-image: /assets/images/images/2017/10/thayumaanavar.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/thayumaanavar.jpg" caption="" alt="தாயும் ஆனவர்" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="தாயும் ஆனவர்"  webp="true" >}}

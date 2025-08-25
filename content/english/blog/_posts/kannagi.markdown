@@ -4,7 +4,6 @@ title: காண்பது கண்ணகியோ…
 date: '2017-08-05 11:44:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/Kannagi.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/Kannagi.jpg" caption="" alt="காண்பது கண்ணகியோ" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="காண்பது கண்ணகியோ"  webp="true"  >}}

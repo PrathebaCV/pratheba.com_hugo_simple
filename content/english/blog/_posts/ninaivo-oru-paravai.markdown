@@ -4,7 +4,6 @@ title: நினைவோ ஒரு பறவை
 date: '2017-03-08 12:36:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/ninaivo_oru_paravai.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/ninaivo_oru_paravai.jpg" caption="" alt="நினைவோ ஒரு பறவை" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="நினைவோ ஒரு பறவை"  webp="true"  >}}

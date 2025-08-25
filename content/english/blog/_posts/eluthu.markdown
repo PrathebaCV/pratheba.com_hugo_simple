@@ -4,7 +4,6 @@ title: எழுத்து…
 date: '2017-08-08 17:15:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/eluthu.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/eluthu.jpg" caption="" alt="எழுத்து…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="எழுத்து…"  webp="true"  >}}

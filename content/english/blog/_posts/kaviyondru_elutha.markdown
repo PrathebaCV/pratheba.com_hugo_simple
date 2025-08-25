@@ -4,7 +4,6 @@ title: கவியொன்றெழுத எத்தனித்தேன்
 date: '2017-07-23 12:25:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/kavi_ondru--2-.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/kavi_ondru--2-.jpg" caption="" alt="கவியொன்றெழுத எத்தனித்தேன்…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கவியொன்றெழுத எத்தனித்தேன்…"  webp="true"  >}}

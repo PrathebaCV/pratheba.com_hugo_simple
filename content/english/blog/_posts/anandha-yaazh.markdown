@@ -6,7 +6,6 @@ date: '2018-02-08 08:56:44'
 tags:
 - vazhkai-pathivugal
 - featured
-image: images/size/w2000/2018/02/upload-1518080126.jpg
 ---
 
 {{< image src="images/size/w2000/2018/02/upload-1518080126.jpg" caption="" alt="ஆனந்த யாழ்..." height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ஆனந்த யாழ்..."  webp="true"  >}}

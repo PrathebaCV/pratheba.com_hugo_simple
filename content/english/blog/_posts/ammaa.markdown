@@ -5,7 +5,6 @@ date: '2016-07-22 12:13:00'
 tags:
 - pratheba-kavithaigal
 - featured
-image: images/size/w1000/2017/10/amma.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/amma.jpg" caption="" alt="அம்மா" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="அம்மா"  webp="true"  >}}
