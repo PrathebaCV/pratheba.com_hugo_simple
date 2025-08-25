@@ -4,7 +4,6 @@ title: இரக்கமில்லா உறக்கம்…..
 date: '2017-03-18 11:49:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/irakkamilla_urakkam.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/irakkamilla_urakkam.jpg" caption="" alt="இரக்கமில்லா உறக்கம்….." height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="இரக்கமில்லா உறக்கம்….."  webp="true"  >}}

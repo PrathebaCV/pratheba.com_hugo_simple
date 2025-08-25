@@ -4,7 +4,6 @@ title: கவிதைகள் முடிவதில்லை
 date: '2016-07-02 12:14:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/kavithai.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/kavithai.jpg" caption="" alt="கவிதைகள் முடிவதில்லை" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கவிதைகள் முடிவதில்லை"  webp="true"  >}}

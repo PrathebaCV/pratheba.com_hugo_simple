@@ -4,7 +4,6 @@ title: இதயத்தில் ஒருபாதி இரவல்கொ�
 date: '2016-08-20 12:28:00'
 tags:
 - pratheba-kavithaigal
-image: images/size/w1000/2017/10/idhayathil_oru.jpg
 ---
 
 {{< image src="images/size/w1000/2017/10/idhayathil_oru.jpg" caption="" alt="இதயத்தில் ஒருபாதி இரவல்கொடு…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="இதயத்தில் ஒருபாதி இரவல்கொடு…"  webp="true"  >}}

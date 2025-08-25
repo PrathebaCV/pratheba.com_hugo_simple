@@ -2,7 +2,6 @@
 layout: post
 title: கி.ரா வின் வேதபுரத்தார்க்கு…
 date: '2016-10-21 12:40:00'
-image: images/size/w1000/2017/10/PicsArt_10-29-12.16.04.jpg
 ---
 {{< image src="images/2017/10/PicsArt_10-29-12.16.04.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true"  >}}
 
