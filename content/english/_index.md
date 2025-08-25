@@ -47,8 +47,3 @@ features:
       label: "ThamizhBooks.in" 
       link: "https://thamizhbooks.com/product/indira-neelamum-imaikka-iravugalum/"
 ---
-
-## Amazon Reviews
-என் எழுத்துக்களும் வாசகர்களின் கருத்துக்களும்
-
-{{< slider dir="images/testimonials" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
