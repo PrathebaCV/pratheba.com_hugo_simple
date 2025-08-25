@@ -41,9 +41,8 @@ draft: false
 ## வீடியோ உள்ளடக்கம்
 
 ### Book Reading & Discussions
+[Book Reading Video 1] {{<youtube 7gnoVmC7q7E>}}  
 
-{{< youtube 7gnoVmC7q7E >}}
+[Book Reading Video 2] {{<youtube _-RzzGMWBg8>}}
 
-{{< youtube _-RzzGMWBg8 >}}
-
-{{< youtube sMTfmG2hdZE >}}
+[Book Reading Video 3] {{<youtube sMTfmG2hdZE>}}

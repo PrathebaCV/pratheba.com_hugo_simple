@@ -3,7 +3,6 @@ title: "Balamurugan Thamarankottai"
 meta_title: "வாசகர் கருத்து #7 - இந்திர நீலமும் இமைக்கா இரவுகளும்"
 description: 
 date: 2023-04-19T12:00:00Z
-image: 
 categories: ["Book Reviews"]
 tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்"]
 draft: false
