@@ -2,8 +2,7 @@
 layout: post
 title: கடிதம்...
 date: '2017-10-30 02:52:31'
-image: images/2018/09/letter.jpg
----
+
 
 {{< image src="images/2018/09/letter.jpg" caption="" alt="கடிதம்..." height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கடிதம்..."  webp="true"  >}}
 

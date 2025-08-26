@@ -5,7 +5,6 @@ date: '2017-07-31 11:47:00'
 tags:
 - pratheba-kavithaigal
 - featured
-image: /assets/images/2017/10/rayil_payanam.jpg
 ---
 
 {{< image src="/images/2017/10/rayil_payanam.jpg" caption="" alt="ரயில்பயண ஞாபகங்கள்…" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ரயில்பயண ஞாபகங்கள்…"  webp="true"  >}}

@@ -4,7 +4,7 @@ title: சினிமாவும் வக்கிரங்களும்...
 date: '2020-02-29 08:56:44'
 tags:
 - vazhkai-pathivugal
-image: assets/images/size/w2000/2020/02/PicsArt_02-29-06.47.06.jpg
+
 ---
 
 {{< image src="images/size/w2000/2020/02/PicsArt_02-29-06.47.06.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true"  >}}
