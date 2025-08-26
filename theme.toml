@@ -1,8 +1,8 @@
 name = "Pratheba"
 license = "MIT"
-licenselink = "https://github.com/PrathebaCV/pratheba.com_hugo_simple/blob/main/LICENSE"
+licenselink = "https://www.pratheba.com/blob/main/LICENSE"
 description = "Pratheba's blog"
-homepage = "https://pratheba.com"
+homepage = "https://www.pratheba.com"
 min_version = "0.141.0"
 
 tags = [
