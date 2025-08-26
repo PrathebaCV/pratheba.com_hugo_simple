@@ -2,7 +2,10 @@
 layout: post
 title: கடிதம்...
 date: '2017-10-30 02:52:31'
+<<<<<<< HEAD:content/english/blog/_posts/kaditham.markdown
 image: images/2018/09/letter.jpg
+=======
+>>>>>>> staging:content/english/blog/kaditham.md
 ---
 
 {{< image src="images/2018/09/letter.jpg" caption="" alt="கடிதம்..." height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கடிதம்..."  webp="true"  >}}
