@@ -24,7 +24,6 @@ features:
       link: "https://www.amazon.in/Indira-Neelamum-Iravugalum-Pratheba-Chandramohan/dp/8119176472/"
 
   - title: "Goodreads" 
-    image: "/images/goodreads.png"
     content: "Read reviews and ratings"
     button:
       enable: true
@@ -32,7 +31,6 @@ features:
       link: "https://www.goodreads.com/book/show/204150752-indira-neelamum-imaika-iravugalum"
  
   - title: "Commonfolks.in"
-    image: "/images/cf.png"
     content: "Purchase the book from Commonfolks.in"
     button:
       enable: true
@@ -40,7 +38,6 @@ features:
       link: "https://www.commonfolks.in/books/d/indhira-neelamum-imaikkaa-iravugalum"
 
   - title: "ThamizhBooks.in"
-    image: "/images/tmb.png"
     content: "Available at ThamizhBooks.in"
     button: 
       enable: true

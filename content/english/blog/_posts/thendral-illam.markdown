@@ -4,7 +4,6 @@ title: தென்றல்….
 date: '2017-08-03 12:23:00'
 tags:
 - pratheba-kavithaigal
-image: images/2018/09/thendral.jpg
 ---
 
 {{< image src="images/2018/09/thendral.jpg" caption="" alt="தென்றல்…." height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="தென்றல்…."  webp="true"  >}}
