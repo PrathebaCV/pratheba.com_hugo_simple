@@ -31,14 +31,19 @@ url = "/book_reviews"
 weight = 4
 
 [[main]]
+name = "Events"
+url = "/events"
+weight = 5
+
+[[main]]
 name = "Book Release"
 url = "/book-release"
-weight = 5
+weight = 6
 
 [[main]]
 name = "About"
 url = "/about"
-weight = 6
+weight = 7
 
 
 
@@ -46,7 +51,7 @@ weight = 6
 [[footer]]
 name = "About"
 url = "/about"
-weight = 5
+weight = 6
 
 [[footer]]
 name = "Book Reviews"
@@ -66,5 +71,10 @@ weight = 2
 [[footer]]
 name = "Gallery"
 url = "/gallery"
+weight = 5
+
+[[footer]]
+name = "Events"
+url = "/events"
 weight = 4
 
