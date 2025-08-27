@@ -2,11 +2,7 @@
 title: "வாசல் இலக்கிய வட்டம் நூல் அறிமுக கூட்டம்"
 meta_title: "இந்திர நீலமும் இமைக்கா இரவுகளும் புத்தக அறிமுகம்"
 description: "வாசல் இலக்கிய வட்டம் சார்பில் பட்டுக்கோட்டையில் 3 நூல்கள் அறிமுக கூட்டம்"
-date: 2024-06-15T12:00:00Z
-image: 
-categories: ["Book Release", "Events"]
-tags: ["இந்திரநீலமும்", "இமைக்காஇரவுகளும்"]
-
+image: "/images/gallery/IMG-20231104-WA0004.jpg"
 ---
 ![image](/images/vaasal-ilakkiya-vattam.png)
 
