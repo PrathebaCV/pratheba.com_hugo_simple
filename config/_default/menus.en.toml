@@ -78,3 +78,8 @@ name = "Events"
 url = "/events"
 weight = 4
 
+[[footer]]
+name = "Events"
+url = "/events"
+weight = 5
+
