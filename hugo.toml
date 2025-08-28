@@ -27,8 +27,9 @@ ID = 'G-MEASUREMENT_ID' # see https://gohugo.io/templates/internal/#configure-go
 shortname = 'pratheba' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 
 ########################## Permalinks ############################
-[permalinks.page]
-"pages" = "/:slugorcontentbasename/"
+[permalinks]
+"blog" = "/:contentbasename/"
+
 
 
 ########################## Pagination ############################
