@@ -90,6 +90,12 @@ button = "I Accept"
 [mermaid]
 js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
 
+# Facebook Comments
+[facebook_comments]
+enable = true    # Set to true to enable Facebook comments
+locale = "en_GB" # Language locale for comments (en_GB as per your requirement)
+num_posts = 5    # Number of comments to show
+
 ######################## sidebar widgets #########################
 [widgets]
 sidebar = ["categories", "tags"]
