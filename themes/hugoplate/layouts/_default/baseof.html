@@ -18,10 +18,8 @@
 
   <body>
     <!-- Facebook SDK -->
-    {{ if site.Params.facebook_comments.enable }}
-      <div id="fb-root"></div>
-      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/{{ site.Params.facebook_comments.locale | default "en_GB" }}/sdk.js#xfbml=1&version=v23.0"></script>
-    {{ end }}
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v23.0"></script>
     
     <!-- cache partial only in production -->
     {{ if hugo.IsProduction }}

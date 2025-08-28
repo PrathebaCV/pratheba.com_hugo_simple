@@ -7,6 +7,7 @@ tags:
 - vazhkai-pathivugal
 - featured
 - sticky
+
 ---
 {{< image src="images/size/w2000/2018/09/20180415144807015007578.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true"  >}}
 " மயிலாடுதுறை எக்ஸ்பிரஸ் மாலை 7.05 மணிக்கு கண்டோண்மண்டுக்கு வரும்... நாம 5.30 க்கு கேப் ஏறனும்... ஸோ தேவையான எல்லா விஷயமும் பேக் பண்ணிடு... சமைக்க வேண்டாம்... மறுபடியும் சொல்றேன் சமைக்க வேண்டாம். உன்னால ஒன் ஹவர்ல செய்யமுடியாது.. அங்க போய் பாத்துக்கலாம்" சொல்லிவிட்டு நகர்ந்தார் என்னவர்.
