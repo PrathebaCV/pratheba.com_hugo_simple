@@ -67,10 +67,23 @@
             </div>
           </div>
           <!-- comments -->
-          <div class="mt-20">
-            <h3 class="h4 mb-6">{{ T "comments" | default "Comments" }}</h3>
-            {{ partial "facebook-comments.html" . }}
-          </div>
+          {{ if site.Config.Services.Disqus.Shortname }}
+            <div class="mt-20">
+              {{ template "_internal/disqus.html" . }}
+            </div>
+          {{ end }}
+          
+          <!-- Facebook Comments -->
+          {{ if site.Params.facebook_comments.enable }}
+            <div class="mt-20">
+              {{ $fb_url := .Params.facebook_comments_url | default .Permalink }}
+              <div class="fb-comments" 
+                   data-href="{{ $fb_url }}" 
+                   data-width="" 
+                   data-numposts="{{ site.Params.facebook_comments.num_posts | default 5 }}">
+              </div>
+            </div>
+          {{ end }}
         </article>
       </div>
 
