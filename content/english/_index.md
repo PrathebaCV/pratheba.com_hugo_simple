@@ -6,8 +6,8 @@ banner:
   image: "/images/image copy.png"
   button:
     enable: true
-    label: "Follow on Twitter"
-    link: "https://x.com/pratheba_cv"
+    label: "Read my Blog"
+    link: "/blog"
 
 # Features
 features:
@@ -29,18 +29,4 @@ features:
       enable: true
       label: "View on Goodreads"
       link: "https://www.goodreads.com/book/show/204150752-indira-neelamum-imaika-iravugalum"
- 
-  - title: "Commonfolks.in"
-    content: "Purchase the book from Commonfolks.in"
-    button:
-      enable: true
-      label: "Commonfolks.in" 
-      link: "https://www.commonfolks.in/books/d/indhira-neelamum-imaikkaa-iravugalum"
-
-  - title: "ThamizhBooks.in"
-    content: "Available at ThamizhBooks.in"
-    button: 
-      enable: true
-      label: "ThamizhBooks.in" 
-      link: "https://thamizhbooks.com/product/indira-neelamum-imaikka-iravugalum/"
 ---

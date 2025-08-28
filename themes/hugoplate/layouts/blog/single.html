@@ -67,11 +67,10 @@
             </div>
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
-            <div class="mt-20">
-              {{ template "_internal/disqus.html" . }}
-            </div>
-          {{ end }}
+          <div class="mt-20">
+            <h3 class="h4 mb-6">{{ T "comments" | default "Comments" }}</h3>
+            {{ partial "facebook-comments.html" . }}
+          </div>
         </article>
       </div>
 
