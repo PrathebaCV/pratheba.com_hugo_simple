@@ -15,8 +15,8 @@ features:
     image: "/images/JAYA6774.jpg"
     content: "Purchase links"
     bulletpoints:
-      - "[**Amazon**](https://www.amazon.in/Indira-Neelamum-Iravugalum-Pratheba-Chandramohan/dp/8119176472)"
-      - "[**Commonfolks.in**](https://www.commonfolks.in/books/d/indhira-neelamum-imaikkaa-iravugalum)"
-      - "[**View on Goodreads**](https://www.goodreads.com/book/show/204150752-indira-neelamum-imaika-iravugalum)"
-      - "[**ThamizhBooks.in**](https://thamizhbooks.com/product/indira-neelamum-imaikka-iravugalum/)"
+      - "[**Amazon**](<https://www.amazon.in/Indira-Neelamum-Iravugalum-Pratheba-Chandramohan/dp/8119176472>)"
+      - "[**Commonfolks.in**](<https://www.commonfolks.in/books/d/indhira-neelamum-imaikkaa-iravugalum>)"
+      - "[**View on Goodreads**](<https://www.goodreads.com/book/show/204150752-indira-neelamum-imaika-iravugalum>)"
+      - "[**ThamizhBooks.in**](<https://thamizhbooks.com/product/indira-neelamum-imaikka-iravugalum/>)"
 ---
