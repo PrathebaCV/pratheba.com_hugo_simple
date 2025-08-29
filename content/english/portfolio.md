@@ -22,7 +22,7 @@ draft: false
 
 # இந்திரநீலமும் இமைக்கா இரவுகளும்
 **Print book on Amazon India**  
-[![Buy on Amazon India]()](https://www.amazon.in/Indira-Neelamum-Iravugalum-Pratheba-Chandramohan/dp/8119176472/)
+[![Buy on Amazon India](/images/eee.png)](https://www.amazon.in/Indira-Neelamum-Iravugalum-Pratheba-Chandramohan/dp/8119176472/)
 
 # இந்திரநீலமும் இமைக்கா இரவுகளும்
 **Amazon Kindle**  

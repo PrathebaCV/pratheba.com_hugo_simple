@@ -4,3 +4,10 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+
+################ Tamil language ##################
+[ta]
+languageName = "Ta"
+languageCode = "ta-in"
+contentDir = "content/tamil"
+weight = 2
