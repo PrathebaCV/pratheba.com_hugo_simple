@@ -1,16 +1,14 @@
 ---
 layout: post
 title: ஓட்டைப் படகு
-date: '2025-09-05 12:13:00'
+date: '2025-09-09 12:13:00'
 tags:
 - pratheba-kavithaigal
 - featured
 ---
-
-{{< image src="images/size/w1000/2017/10/amma.jpg" caption="" alt="ஓட்டைப் படகு" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ஓட்டைப் படகு"  webp="true"  >}}
-
-ஓட்டைப் படகு
-
+{{< image src="/images/ottaipadagu.png" caption="" alt="ஓட்டைப் படகு" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ஓட்டைப் படகு"  webp="true"  >}}
+### ***ஓட்டைப் படகு***
+</br>
 மாலை நேர கடற்காற்றை காதலர்களுடன் சேர்ந்து சுவாசிக்கிறது....
 
 
