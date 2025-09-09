@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "கி.ரா அவர்களின் கன்னிமை - சிறுகதை"
-date: '2025-09-04 12:13:00'
+date: '2024-01-13 12:13:00'
 tags:
 - pratheba-kavithaigal
 - featured
