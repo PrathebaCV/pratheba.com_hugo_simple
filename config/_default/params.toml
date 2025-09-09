@@ -63,7 +63,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Pratheba.com"
+description = "Where creativity and literature converge"
 author = "Pratheba Chandramohan"
 twitter = "Pratheba_CV"
 image = "images/og-image.png"

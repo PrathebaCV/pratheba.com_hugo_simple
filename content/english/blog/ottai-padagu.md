@@ -1,10 +1,9 @@
 ---
 layout: post
 title: ஓட்டைப் படகு
-date: '2025-09-09 12:13:00'
+date: '2025-09-08 12:13:00'
 tags:
 - pratheba-kavithaigal
-- featured
 ---
 {{< image src="/images/ottaipadagu.png" caption="" alt="ஓட்டைப் படகு" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="ஓட்டைப் படகு"  webp="true"  >}}
 ### ***ஓட்டைப் படகு***
