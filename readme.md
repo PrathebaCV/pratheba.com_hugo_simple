@@ -1,123 +1,142 @@
-<h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
+<h1 align="center">Pratheba's Personal Website</h1>
 
-<p align="center">Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
+<p align="center">A personal portfolio website built with Hugo and Tailwind CSS, showcasing my work, projects, and professional journey.</p>
 
-<p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
+<p align="center">Built with ♥ using Hugo and modern web technologies</p>
 <p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
 
-<h2 align="center"> <a target="_blank" href="https://zeon.studio/preview?project=hugoplate" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-hugoplate-netlify-app/6lyxjw6t4r?form_factor=desktop">Page Speed (95+)🚀</a>
+<h2 align="center"> <a target="_blank" href="https://pratheba.com" rel="nofollow">🌐 Live Site</a> | <a target="_blank" href="#" rel="nofollow">📱 Mobile Optimized</a>
 </h2>
 
 <p align="center">
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.126.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.126.0&color=f00&logo=hugo" />
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.126.0" alt="Hugo Version">
+    <img src="https://img.shields.io/static/v1?label=Hugo-version&message=0.126.0&color=f00&logo=hugo" />
   </a>
-
-  <a href="https://github.com/zeon-studio/hugoplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/hugoplate" alt="license">
+  <a href="https://github.com/PrathebaCV/pratheba.com_hugo_simple/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/PrathebaCV/pratheba.com_hugo_simple" alt="license">
   </a>
-
-  <a href="https://github.com/zeon-studio/hugoplate">
-    <img src="https://img.shields.io/github/languages/code-size/zeon-studio/hugoplate" alt="code size">
-  </a>
-
-  <a href="https://github.com/zeon-studio/hugoplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/hugoplate" alt="contributors">
+  <a href="https://github.com/PrathebaCV/pratheba.com_hugo_simple">
+    <img src="https://img.shields.io/github/languages/code-size/PrathebaCV/pratheba.com_hugo_simple" alt="code size">
   </a>
 </p>
 
-## 🎁 What's Included
+## � About This Website
 
-We have included almost everything you need to start your Hugo project. Let's see what's included in this template:
+This is my personal portfolio website where I showcase my professional work, projects, and share my thoughts through blog posts. The site is built with modern web technologies focusing on performance, accessibility, and user experience.
 
-### 📌 Key Features
+### ✨ Key Features
 
-- 👥 Multi-Authors
-- 🎯 Similar Posts Suggestion
-- 🔍 Search Functionality
-- 🌑 Dark Mode
-- 🏷️ Tags & Categories
-- 🔗 Netlify setting pre-configured
-- 📞 Support contact form
-- 📱 Fully responsive
-- 📝 Write and update content in Markdown
-- 💬 Disqus Comment
-- 🔳 Syntax Highlighting
+- 🌍 Multi-language support (English & Tamil)
+- 📱 Fully responsive design
+- 🌑 Dark/Light mode toggle
+- ⚡ Fast loading and optimized performance
+- � Blog with markdown support
+- 🎨 Clean and modern design
+- � Search functionality
+- 📧 Contact form integration
+- 🏷️ Tags and categories for content organization
+- � SEO optimized
 
-### 📄 15+ Pre-designed Pages
+### 📄 Pages & Sections
 
-- 🏠 Homepage
-- 👤 About
-- 📞 Contact
-- 👥 Authors
-- 👤 Author Single
-- 📝 Blog
-- 📝 Blog Single
-- 🚫 Custom 404
-- 💡 Elements
-- 📄 Privacy Policy
-- 🏷️ Tags
-- 🏷️ Tag Single
-- 🗂️ Categories
-- 🗂️ Category Single
-- 🔍 Search
+- 🏠 **Homepage** - Introduction and overview
+- 👤 **About** - Professional background and personal story
+- � **Portfolio** - Showcase of projects and work
+- 📝 **Blog** - Technical articles and personal insights
+- � **Contact** - Get in touch form and information
+- � **Search** - Find content across the site
+- 🏷️ **Tags & Categories** - Content organization
+- 🌐 **Language Toggle** - English/Tamil content
 
-### 📦 Tech Stack
+### � Tech Stack
 
-- [Hugo](https://gohugo.io/)
-- [Tailwind CSS v4.0](https://tailwindcss.com/)
-- [AutoPrefixer](https://autoprefixer.github.io/)
-- [Hugo Modules](https://gohugo.io/hugo-modules/) by [Gethugothemes](https://gethugothemes.com/hugo-modules)
-- [Markdown](https://markdownguide.org/)
-- [Prettier](https://prettier.io/)
-- [Jshint](https://jshint.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-- [Github Actions](https://github.com/features/actions)
-- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
-- [AWS Amplify](https://aws.amazon.com/amplify/)
+- **Framework:** [Hugo](https://gohugo.io/) - Static site generator
+- **Styling:** [Tailwind CSS v4.0](https://tailwindcss.com/) - Utility-first CSS
+- **Language:** HTML, CSS, JavaScript
+- **Content:** [Markdown](https://markdownguide.org/) - Easy content management
+- **Build Tools:** [AutoPrefixer](https://autoprefixer.github.io/), [Prettier](https://prettier.io/)
+- **Deployment:** [Netlify](https://www.netlify.com/) / [Vercel](https://vercel.com/)
+- **Version Control:** Git & GitHub
 
 ---
 
 ## 🚀 Getting Started
 
-First you need to [clone](https://github.com/zeon-studio/hugoplate) or [download](https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip) the template repository, and then let's get started with the following process:
+If you want to clone this project or use it as a template for your own site:
 
 ### ⚙️ Prerequisites
-
-To start using this template, you need to have some prerequisites installed on your machine.
 
 - [Hugo Extended v0.144+](https://gohugo.io/installation/)
 - [Node v22+](https://nodejs.org/en/download/)
 - [Go v1.24+](https://go.dev/doc/install)
 
-### 👉 Project Setup
+### 👉 Installation
 
-We built this custom script to make your project setup easier. It will create a new Hugo theme folder and clone the Hugoplate theme into it. Then move the exampleSite folder into the root directory. So that you can start your Hugo server without going into the exampleSite folder. Use the following command to setup your project.
-
+1. **Clone the repository**
 ```bash
-npm run project-setup
+git clone https://github.com/PrathebaCV/pratheba.com_hugo_simple.git
+cd pratheba.com_hugo_simple
 ```
 
-### 👉 Install Dependencies
-
-Install all the dependencies using the following command.
-
+2. **Install dependencies**
 ```bash
 npm install
 ```
 
-### 👉 Development Command
-
-Start the development server using the following command.
-
+3. **Start development server**
 ```bash
 npm run dev
 ```
 
-### 🎬 Still Confused? Watch a Quick Video
+4. **Build for production**
+```bash
+npm run build
+```
 
-https://github.com/zeon-studio/hugoplate/assets/58769763/c260c0ae-91be-42ce-b8db-aa7f11f777bd
+---
+
+## 📝 Content Management
+
+### Adding New Blog Posts
+
+Create new markdown files in the `content/english/blog/` directory:
+
+```bash
+hugo new content/english/blog/my-new-post.md
+```
+
+### Multi-language Content
+
+- English content: `content/english/`
+- Tamil content: `content/tamil/`
+
+### Customization
+
+- **Site configuration:** `hugo.toml`
+- **Parameters:** `config/_default/params.toml`
+- **Languages:** `config/_default/languages.toml`
+- **Themes & Colors:** `data/theme.json`
+
+---
+
+## 🚀 Deployment
+
+The site is configured for easy deployment on multiple platforms:
+
+- **Netlify:** Pre-configured with `netlify.toml`
+- **Vercel:** Ready for Vercel deployment
+- **GitHub Pages:** Can be deployed using GitHub Actions
+- **Traditional hosting:** Build generates static files in `public/`
+
+### Quick Deploy Commands
+
+```bash
+# Build for production
+npm run build
+
+# The built site will be in the 'public' directory
+# Upload the contents to your hosting provider
+```
 
 ---
 
@@ -143,37 +162,25 @@ You can change the social links from the `data/social.json` file. Add your socia
 
 ---
 
-## 🛠 Advanced Usage
+## 🤝 Contributing
 
-We have added some custom scripts to make your life easier. You can use these scripts to help you with your development.
+While this is a personal website, I welcome:
 
-### 👉 Update Theme
+- � Bug reports
+- 💡 Feature suggestions  
+- 🔧 Performance improvements
+- 📝 Content suggestions
 
-If you want to update the theme, then you can use the following command. It will update the theme to the latest version.
+Feel free to [open an issue](https://github.com/PrathebaCV/pratheba.com_hugo_simple/issues) or submit a pull request.
 
-```bash
-npm run update-theme
-```
+---
 
-> **Note:** This command will work after running the `project-setup` script.
+## � Contact
 
-### 👉 Update Modules
-
-We have added a lot of modules to this template. You can update all the modules using the following command.
-
-```bash
-npm run update-modules
-```
-
-### 👉 Remove Dark Mode
-
-If you want to remove dark mode from your project, you can use the following command to remove dark mode from your project.
-
-```bash
-npm run remove-darkmode
-```
-
-> **Note:** This command will work before running the `project-setup` script. If you have already run the `project-setup` command, then you have to run `npm run theme-setup` first, and then you can run this command. Afterward, you can run `npm run project-setup` again.
+- **Website:** [pratheba.com](https://pratheba.com)
+- **Email:** [contact@pratheba.com](mailto:contact@pratheba.com)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/pratheba)
+- **GitHub:** [@PrathebaCV](https://github.com/PrathebaCV)
 
 ---
 
@@ -191,44 +198,31 @@ npm run build
 
 ### 👉 Deploy Site
 
-We have provided 5 different deploy platform configurations with this template, so you can deploy easily.
+The site is pre-configured for multiple deployment platforms:
 
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
 - [Github Actions](https://github.com/features/actions)
-- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
 - [AWS Amplify](https://aws.amazon.com/amplify/)
 
-And if you want to host some other hosting platforms. Then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
+And if you want to host on other platforms, you can build your project and get a `public` folder that you can copy and paste to your hosting platform.
 
 > **Note:** You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
 
 ---
 
-## 🔒 Guide to Staying Compliant
+## � License
 
-### 🐞 Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please search [existing issues](https://github.com/zeon-studio/hugoplate/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/hugoplate/issues).
-
-### 📝 License
-
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
-
-**Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🖼️ Showcase
+## � Acknowledgments
 
-List of some projects people are building with [**Hugoplate**!](https://github.com/zeon-studio/hugoplate/discussions/207)
-Don't forget to add yours.
+- Built using the [Hugoplate](https://github.com/zeon-studio/hugoplate) template
+- Thanks to the Hugo and Tailwind CSS communities
+- Inspired by modern web design principles
 
 ---
 
-## 💻 Need Customization?
-
-If you need a custom theme, theme customization, or complete website development services from scratch, you can [Hire Us](https://zeon.studio/estimate-project).
+*Last updated: September 2025*
