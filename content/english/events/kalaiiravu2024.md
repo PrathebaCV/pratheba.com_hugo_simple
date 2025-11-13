@@ -4,7 +4,6 @@ meta_title: "இந்திர நீலமும் இமைக்கா இ�
 description: "பட்டுக்கோட்டையில் தமுஎகச சார்பில் கலை இலக்கிய இரவு"
 image: "/images/KALAIRAVU2024-1.png"
 date: 2023-06-15T12:00:00Z
-image: "/images/book-cover.jpg"
 draft: false
 ---
 #### பட்டுக்கோட்டையில் தமுஎகச சார்பில் கலை இலக்கிய இரவு

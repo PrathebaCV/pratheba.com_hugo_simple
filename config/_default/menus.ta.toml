@@ -1,0 +1,77 @@
+############# Tamil navigation ##############
+
+[[main]]
+name = "வலைப்பதிவு"
+url = "/blog"
+weight = 1
+
+[[main]]
+name = "படக்காட்சி"
+url = "/gallery"
+weight = 2
+
+[[main]]
+name = "முழு விவரங்கள்"
+url = "/portfolio"
+weight = 3
+
+[[main]]
+name = "புத்தக விமர்சனங்கள்"
+url = "/book_reviews"
+weight = 4
+
+[[main]]
+name = "நிகழ்வுகள்"
+url = "/events"
+weight = 5
+
+[[main]]
+name = "புத்தக வெளியீடு"
+url = "/book-release"
+weight = 6
+
+[[main]]
+name = "IT பரிசோதனைகள்"
+url = "/it-experiments"
+weight = 7
+
+[[main]]
+name = "என்னைப் பற்றி"
+url = "/about"
+weight = 8
+
+# footer menu
+[[footer]]
+name = "வலைப்பதிவு"
+url = "/blog"
+weight = 1
+
+[[footer]]
+name = "முழு விவரங்கள்"
+url = "/portfolio"
+weight = 2
+
+[[footer]]
+name = "புத்தக விமர்சனங்கள்"
+url = "/book_reviews"
+weight = 3
+
+[[footer]]
+name = "நிகழ்வுகள்"
+url = "/events"
+weight = 4
+
+[[footer]]
+name = "படக்காட்சி"
+url = "/gallery"
+weight = 5
+
+[[footer]]
+name = "என்னைப் பற்றி"
+url = "/about"
+weight = 6
+
+[[footer]]
+name = "IT பரிசோதனைகள்"
+url = "/it-experiments"
+weight = 7
