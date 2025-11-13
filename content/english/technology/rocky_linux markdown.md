@@ -6,7 +6,7 @@ date: 2024-11-13T17:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["Rocky Linux", "Apache", "httpd", "Web Server", "Linux", "Server Configuration"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Getting Started with Apache on Rocky Linux

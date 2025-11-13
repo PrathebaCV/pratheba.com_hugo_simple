@@ -6,7 +6,7 @@ date: 2024-11-13T15:00:00Z
 draft: true
 authors: ["Pratheba"]
 tags: ["AWS", "CloudWatch", "CloudTrail", "Monitoring",]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # CloudWatch and CloudTrail

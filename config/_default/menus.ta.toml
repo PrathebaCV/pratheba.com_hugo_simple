@@ -31,8 +31,8 @@ url = "/book-release"
 weight = 6
 
 [[main]]
-name = "IT பரிசோதனைகள்"
-url = "/it-experiments"
+name = "தொழில்நுட்பம்"
+url = "/technology"
 weight = 7
 
 [[main]]
@@ -72,6 +72,6 @@ url = "/about"
 weight = 6
 
 [[footer]]
-name = "IT பரிசோதனைகள்"
-url = "/it-experiments"
+name = "தொழில்நுட்பம்"
+url = "/technology"
 weight = 7

@@ -6,7 +6,7 @@ date: 2024-11-13T11:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["AWS", "CLI", "EC2", "Linux", "Command Line"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # AWS CLI Setup and Configuration

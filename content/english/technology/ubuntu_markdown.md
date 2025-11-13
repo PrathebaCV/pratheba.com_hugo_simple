@@ -6,7 +6,7 @@ date: 2024-11-13T16:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["Ubuntu", "VirtualBox", "Apache", "Web Server", "Linux", "Server Setup"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Ubuntu Server VirtualBox + Apache Web Server Setup Guide

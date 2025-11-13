@@ -6,7 +6,7 @@ date: 2024-11-13T10:00:00Z
 draft: true
 authors: ["Pratheba"]
 tags: ["AWS", "Cloud Computing", "Monitoring", "DevOps"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # AWS Services Overview - Part 1

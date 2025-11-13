@@ -6,7 +6,7 @@ date: 2024-11-13T20:00:00Z
 draft: true
 authors: ["Pratheba"]
 tags: ["AWS", "Systems Manager", "Operations", "Monitoring", "Management"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # AWS Systems Manager Sub-Services Overview
