@@ -41,9 +41,14 @@ url = "/book-release"
 weight = 6
 
 [[main]]
+name = "IT Experiments"
+url = "/it-experiments"
+weight = 7
+
+[[main]]
 name = "About"
 url = "/about"
-weight = 7
+weight = 8
 
 
 
@@ -79,7 +84,7 @@ url = "/events"
 weight = 4
 
 [[footer]]
-name = "Events"
-url = "/events"
-weight = 5
+name = "IT Experiments"
+url = "/it-experiments"
+weight = 7
 

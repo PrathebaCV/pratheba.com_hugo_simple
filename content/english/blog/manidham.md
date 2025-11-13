@@ -7,7 +7,7 @@ tags:
 - featured
 ---
 
-{{< image src="images/manidham.png" caption="" alt="கன்னிமை சிறுகதை" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="கன்னிமை சிறுகதை"  webp="true"  >}}
+{{< image src="images/manidham.png" caption="" alt="manidham" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="மனிதம்"  webp="true"  >}}
 
 வண்ணத்துப்பூச்சியின் இறகுவழி </br>
 பயணித்த பனித்துளியே
