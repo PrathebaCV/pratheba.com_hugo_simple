@@ -37,12 +37,12 @@ you should go to godaddy.com or any of your service provider and edit the detail
 change the alias name or **'A' NAME** OR (Optional - *AAAA* for IPV6)  and **CNAME** to those given in the managing custom domain page. Set the TTL as 600s which is the minimum and wait for 600s.
 
 then use followin command for checking the connection and IP address
-``` 
+``` bash
 ping pratheba.com
 ```
 use following command for DNS resolution and details like ANAME, CNAME
 
-```
+```bash
 dig pratheba.com
 ```
 ![alt text](/images/it-ss/image.png)
