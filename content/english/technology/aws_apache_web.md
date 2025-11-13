@@ -57,7 +57,7 @@ Add inbound rule: Type = HTTP, Port = 80, Source = 0.0.0.0/0
 
 #### Copy files from your local machine to EC2
 ```bash
-    scp -i your-key.pem -r /path/to/your/website/* ec2-user@your-instance-ip:/tmp/
+  scp -i your-key.pem -r /path/to/your/website/* ec2-user@your-instance-ip:/tmp/
 ```
 
 #### Then on your EC2 instance, move files to web directory

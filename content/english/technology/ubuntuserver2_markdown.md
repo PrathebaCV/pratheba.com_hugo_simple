@@ -22,7 +22,7 @@ This guide provides step-by-step instructions for installing and configuring Apa
    ```
 ### Start-Enable-Status
 
-```
+```bash
 sudo systemctl start apache2
 sudo systemctl enable apache2
 sudo systemctl status apache2
@@ -54,6 +54,6 @@ sudo chmod 755 /var/www/html/devwebsite
 ```
 ## Check with the web browser
 - use 
-```
+```bash
  localhost:8004/devwebsite/index.html
 ```

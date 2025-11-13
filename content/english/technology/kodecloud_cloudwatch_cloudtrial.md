@@ -58,7 +58,7 @@ aws s3api put-bucket-policy --bucket my-static-website-2025 --policy '{
 
 >if the website dont work with those steps, use CORS
 
-``` 
+``` bash
 cat > cors-config.json << 'EOF'
 [
     {
