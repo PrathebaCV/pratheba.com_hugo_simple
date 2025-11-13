@@ -6,7 +6,7 @@ date: 2024-11-13T10:00:00Z
 draft: true
 authors: ["Pratheba"]
 tags: ["AI", "Machine Learning", "Code Review", "Automation"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 ## Project Overview

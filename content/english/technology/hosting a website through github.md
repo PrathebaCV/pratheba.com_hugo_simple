@@ -6,7 +6,7 @@ date: 2024-11-13T14:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["GitHub Pages", "Static Hosting", "Web Development", "Free Hosting"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Hosting a Website Through GitHub Pages

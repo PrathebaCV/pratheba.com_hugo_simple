@@ -6,7 +6,7 @@ date: 2024-11-13T09:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["AWS", "Account Setup", "EC2", "Cloud Computing", "Getting Started"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Creating an AWS Account and Launching Your First Instance

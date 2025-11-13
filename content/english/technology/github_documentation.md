@@ -6,7 +6,7 @@ date: 2024-11-13T12:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["GitHub", "Git", "Version Control", "Repository Management"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # GitHub Repository Creation and Management

@@ -6,7 +6,7 @@ date: 2024-11-13T21:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["Ubuntu Server", "Apache", "Web Server", "Linux", "Ubuntu 24"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Apache Web Server Installation on Ubuntu Server 24

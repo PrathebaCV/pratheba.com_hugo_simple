@@ -6,7 +6,7 @@ date: 2024-11-13T18:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["AWS", "S3", "Static Hosting", "Web Console", "Website Hosting"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Static Website Hosting Using AWS S3 Console

@@ -6,7 +6,7 @@ date: 2024-11-13T19:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["AWS", "EC2", "Apache", "Web Server", "Linux", "Cloud Hosting"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 # Apache Web Server Installation on AWS EC2

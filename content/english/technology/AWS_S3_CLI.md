@@ -6,7 +6,7 @@ date: 2024-11-13T13:00:00Z
 draft: false
 authors: ["Pratheba"]
 tags: ["AWS", "S3", "Static Hosting", "CLI", "Web Hosting"]
-categories: ["IT Experiments"]
+categories: ["Technology"]
 ---
 
 > **Note**: This file contains experimental configurations and may need verification.
