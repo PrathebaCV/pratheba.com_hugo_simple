@@ -15,36 +15,86 @@ This guide demonstrates how to host static websites for free using GitHub Pages,
 
 ## Getting Started
 
-Create a new repository in GitHub and clone it to your system terminal. Copy your desired files to the repository folder. using git commands, add, commit, push them to git.
+### Step 1: Repository Setup
+1. **Create a new repository** in GitHub
+2. **Clone it locally**:
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
+   ```
+3. **Add your website files** to the repository folder
+4. **Commit and push** using git commands:
+   ```bash
+   git add .
+   git commit -m "Add website files"
+   git push origin main
+   ```
 
-When all the files are merged in to github, go to **settings** of your repository.
-Click **Pages** option in the side menu that opena *Github pages*
+### Step 2: Enable GitHub Pages
+1. **Navigate to your repository** on GitHub
+2. **Go to Settings** tab
+3. **Click Pages** in the sidebar to open GitHub Pages settings
+4. **Under 'Source'** in the Build and deployment section:
+   - Select **"Deploy from a branch"**
+5. **Under 'Branch'** section:
+   - Select **"main"** branch
+   - Select **"/ (root)"** folder
+   - Click **"Save"**
 
-Under the 'Source' tab in Build and deployment section click on **Deploy from a branch**
+## Optional: Custom Domain Configuration
 
-Select **main/ roots and then save** from 'Branch' section
+### Step 3: Setting Up Custom Domain
+1. **Under 'Custom Domain'** enter your domain name (e.g., `pratheba.com`)
+2. **Click 'Save'** - This may initially fail and prompt DNS verification
 
-Under the 'Custom Domain' type your **Domain name** then click **save**
+### Step 4: DNS Configuration
+Visit GitHub's documentation:
+- [Configuring custom domains](https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [Managing custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
-This will turn to be an unsuccessful move and ask you to check the **DNS**
+### Step 5: DNS Provider Settings
+**At your DNS provider** (GoDaddy, Namecheap, etc.):
 
-CLICK ON THE LINK- (Learn more about configuring custom domains) [https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site]
+1. **Add A records** pointing to GitHub Pages IP addresses:
+   - `185.199.108.153`
+   - `185.199.109.153`
+   - `185.199.110.153`
+   - `185.199.111.153`
 
-Then click (Managing a custom domain for your GitHub Pages site)[https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site]
+2. **Add CNAME record** (for www subdomain):
+   - Name: `www`
+   - Value: `<username>.github.io`
 
-you should go to godaddy.com or any of your service provider and edit the details of your DNS
+3. **Set TTL to 600 seconds** (minimum recommended)
+4. **Wait for DNS propagation** (up to 24 hours, usually faster)
 
-change the alias name or **'A' NAME** OR (Optional - *AAAA* for IPV6)  and **CNAME** to those given in the managing custom domain page. Set the TTL as 600s which is the minimum and wait for 600s.
+## Verification and Testing
 
-then use followin command for checking the connection and IP address
-``` 
+### Step 6: Verify DNS Configuration
+**Check connectivity and IP address:**
+```bash
 ping pratheba.com
 ```
-use following command for DNS resolution and details like ANAME, CNAME
 
-```
+**Verify DNS resolution and records:**
+```bash
+# Check DNS resolution
 dig pratheba.com
-```
-![alt text](/images/it-ss/image.png)
 
-Use the link provided in *Github pages* to go to the website
+# Check specific record types
+dig pratheba.com A
+dig www.pratheba.com CNAME
+```
+
+### Step 7: Access Your Website
+1. **Use the GitHub Pages URL** initially: `https://<username>.github.io/<repository>`
+2. **After DNS propagation**, access via your custom domain: `https://pratheba.com`
+3. **Enable HTTPS** in GitHub Pages settings for security
+
+![DNS Configuration Example](/images/it-ss/image.png)
+
+## Troubleshooting Tips
+- DNS changes can take up to 24 hours to propagate
+- Use `nslookup` or online DNS checkers to verify propagation
+- Ensure your repository is public for GitHub Pages to work
+- Check that your `index.html` file is in the root directory

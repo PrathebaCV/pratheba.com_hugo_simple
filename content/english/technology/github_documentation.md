@@ -15,62 +15,84 @@ This comprehensive guide covers creating and managing GitHub repositories both t
 
 ## Creating a Repository in GitHub Website
 
+1. **Create a GitHub account** (if you don't have one already)
+2. **Click the '+' symbol** in the top right corner and select 'New Repository'
+3. **Name your repository** and set it to public or private
+4. **Click 'Create repository'** at the bottom
+5. **Copy the SSH/HTTPS URL** provided for cloning
 
-Create a new Github account.
-Press the '+' symbol on the top right to and click on 'New Repository'
-Name it, set it to public, then click 'Create rpository' on the bottom.
+## Creating and Managing Git Repository in Terminal
 
-copy ssh/http the link given
-
-## CREATING A GIT REPOSITORY IN TERMINAL AND ADD FILES
-   
-Open the terminal.
-Go to the desired folder.
-
+### Initial Setup
+1. **Open terminal** and navigate to your desired folder
+2. **Clone the repository**:
 
 ```bash
-git init
-git clone <the given ssh/http of repository>
+# Clone the repository from GitHub
+git clone <repository-ssh-or-https-url>
 
+# Navigate into the cloned directory
+cd <repository-name>
 ```
 
-Get iside the folder, type this to create a branch.
+### Branch Management
+Create and work with branches:
 
 ```bash
-   git checkout -b sidestage
+# Create and switch to a new branch
+git checkout -b feature-branch
+
+# View all branches
+git branch
+
+# Switch between branches
+git checkout main
+git checkout feature-branch
 ```
 
-To see the number of branches
+### Adding and Committing Files
 ```bash
-   git branch
-```
+# Create a new file
+echo "Hello World" > file.txt
 
-Create a file using 'echo' 
+# Add file to staging area
+git add file.txt
+# Or add all files: git add .
 
-```bash
-echo "Hello World" >> file.txt
-```   
-Add file to github 
+# Commit changes
+git commit -m "Add initial file with hello world content"
 
-```bash
-git add file.txt 
-```
-   
-Create first commit and push
-
-```bash
-git commit -m "first file"
+# Push to remote repository
 git push
-git push --set-upstream origin Side
+
+# For new branches, set upstream
+git push --set-upstream origin feature-branch
 ```
 
-## MANAGING PULL REQUEST
+## Managing Pull Requests
 
-- When you push, the change you made is updated to the respective branch in the github.
-- Go to the Github and you would have received a notification from the sidestage branch, stating 'side had recent pushes'
-- Click on 
-     > Compare and Pull request
-- It takes you to "Open pull request" page
-- Add Title & Description and click on "CREATE PULL REQUEST" 
-- It will take you to 'Pull request tab'.
-Then click on 'merge pull request' and 'confirm merge'
+### Creating a Pull Request
+1. **Push changes** to your feature branch - changes are updated in GitHub
+2. **Navigate to GitHub** - you'll see a notification banner stating "feature-branch had recent pushes"
+3. **Click "Compare & pull request"** button
+4. **Fill out the PR form**:
+   - Add a descriptive title
+   - Write a detailed description of changes
+   - Click "Create Pull Request"
+
+### Merging Pull Request
+1. **Review the changes** in the Pull Request tab
+2. **Click "Merge pull request"** when ready
+3. **Click "Confirm merge"** to complete the process
+4. **Optionally delete** the feature branch after merging
+
+### Best Practices
+```bash
+# Always pull latest changes before creating new branches
+git checkout main
+git pull origin main
+
+# Create descriptive branch names
+git checkout -b fix/login-bug
+git checkout -b feature/user-dashboard
+```

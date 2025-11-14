@@ -3,7 +3,7 @@ title: "Ubuntu Server VirtualBox + Apache Web Server Setup"
 description: "Comprehensive guide to setting up Ubuntu Server in VirtualBox with Apache web server configuration"
 image: "/images/it-ss/ubuntu-apache.png"
 date: 2024-11-13T16:00:00Z
-draft: false
+draft: true
 authors: ["Pratheba"]
 tags: ["Ubuntu", "VirtualBox", "Apache", "Web Server", "Linux", "Server Setup"]
 categories: ["Technology"]
@@ -194,7 +194,8 @@ sudo nano /etc/apache2/sites-available/8004.conf
 # Add this configuration:
 ```
 
-```apache
+```bash
+apache
 <VirtualHost *:8004>
     ServerAdmin webmaster@localhost
     DocumentRoot /var/www/html
