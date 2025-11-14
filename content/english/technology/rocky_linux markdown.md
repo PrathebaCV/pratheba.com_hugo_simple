@@ -35,75 +35,109 @@ sudo systemctl enable httpd
 sudo systemctl status httpd
 ```
 
-# Configuring the Firewall
+## Configuring the Firewall
 
 Configure firewall to allow HTTP and HTTPS traffic:
 
 ```bash
-# Allow HTTP traffic
+# Allow HTTP traffic (port 80)
 sudo firewall-cmd --permanent --add-service=http
 
-# Allow HTTPS traffic
+# Allow HTTPS traffic (port 443)
 sudo firewall-cmd --permanent --add-service=https
 
-# Reload firewall configuration
+# Reload firewall configuration to apply changes
 sudo firewall-cmd --reload
 
-# List all configured services
+# Verify configured services
 sudo firewall-cmd --list-all
 ```
 
-# Testing the Apache Installation
+## Testing the Apache Installation
 
-Test from the server:
+**Test from command line:**
 ```bash
+# Test local server response
 curl http://localhost
+
+# Test with verbose output
+curl -v http://localhost
 ```
 
-Test from web browser:
-- Open your browser and navigate to: `localhost:8003`
-- You should see the message: **IT WORKS**
+**Test from web browser:**
+- Navigate to: `http://localhost` or `http://your-server-ip`
+- You should see the Apache default page with message: **"Testing 123"** or similar
 
-# Deploying a Web Page
+## Deploying a Web Page
 
-1. Copy files from local server to web server:
+### Step 1: Transfer Files
+Copy files from local machine to server:
 ```bash
-scp -P 2203 -r /home/pratheba/Documents/devwebsite pratheba@localhost:/tmp/
+# Using SCP (if connecting remotely)
+scp -P 2203 -r /home/pratheba/Documents/devwebsite pratheba@your-server-ip:/tmp/
+
+# Or if working locally, simply copy
+sudo cp -r /home/pratheba/Documents/devwebsite /var/www/html/
 ```
 
-2. Move files to the web root directory:
+### Step 2: Set Proper Location
+Move files to the web root directory:
 ```bash
+# Move to web root (if copied to /tmp first)
 sudo mv /tmp/devwebsite /var/www/html/
+
+# Or create directly in web root
+sudo mkdir -p /var/www/html/devwebsite
 ```
 
-3. Set proper permissions:
+### Step 3: Configure Permissions
+Set correct ownership and permissions:
 ```bash
-# Set ownership to Apache user
+# Set ownership to Apache user and group
 sudo chown -R apache:apache /var/www/html/devwebsite
 
-# Set correct file permissions
-sudo chmod -R 755 /var/www/html/devwebsite
+# Set directory permissions (755 = rwxr-xr-x)
+sudo find /var/www/html/devwebsite -type d -exec chmod 755 {} \;
+
+# Set file permissions (644 = rw-r--r--)
+sudo find /var/www/html/devwebsite -type f -exec chmod 644 {} \;
 ```
 
-> **Note**: Unlike Ubuntu, Rocky Linux requires additional SELinux configuration
-# SELinux Configuration
+> **Important**: Rocky Linux uses SELinux which requires additional configuration
+## SELinux Configuration
 
-1. Switch to root user and check error logs:
+### Step 1: Check Error Logs
+View Apache error logs for SELinux issues:
 ```bash
-sudo su -
-cat /var/log/httpd/error_log
+# Check Apache error log
+sudo tail -f /var/log/httpd/error_log
+
+# Check SELinux audit log
+sudo tail -f /var/log/audit/audit.log | grep httpd
 ```
 
-2. Troubleshoot SELinux context:
+### Step 2: Configure SELinux Context
+Set proper SELinux context for web files:
 ```bash
 # Check current SELinux context
 ls -Z /var/www/html/devwebsite/index.html
 
-# Restore proper SELinux context
-restorecon -R /var/www/html/devwebsite/
+# Restore proper SELinux context for web content
+sudo restorecon -R /var/www/html/devwebsite/
 
 # Verify the context has been updated
 ls -Z /var/www/html/devwebsite/index.html
+
+# Should show: httpd_exec_t or httpd_content_t
+```
+
+### Step 3: Set SELinux Booleans (if needed)
+```bash
+# Allow httpd to read user content (if files came from user directories)
+sudo setsebool -P httpd_read_user_content 1
+
+# Allow httpd network connections (if needed)
+sudo setsebool -P httpd_can_network_connect 1
 ```
 
 After completing these steps, the web page should load successfully.

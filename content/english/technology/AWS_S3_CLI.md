@@ -40,7 +40,7 @@ EOF
 ```
 
 ## Apply the policy
-```BASH
+```bash
 aws s3api put-bucket-policy --bucket pratheba.com-bucket --policy file://bucket-policy.json
 ```
 
@@ -57,10 +57,17 @@ You can find the exact URL in the S3 console under Properties > Static website h
 
 ## Optional: Set up custom domain
 
-If you want to use pratheba.com as your domain, you'll need to:
+If you want to use `pratheba.com` as your domain, you'll need to:
 
-Configure Route 53 or your DNS provider
+1. **Configure Route 53** or your DNS provider to point to the S3 website endpoint
+2. **Consider using CloudFront** for HTTPS support and better performance
+3. **Ensure proper folder structure** - Your `index.html` file should be in the root directory
 
-Consider using CloudFront for HTTPS and better performance
+## Upload your website files
+```bash
+# Upload all website files to your S3 bucket
+aws s3 sync ./your-website-folder/ s3://pratheba.com-bucket/
 
-Your index.html file is already in the root, which is perfect for the main page. The folder structure you have should work well for a static site.RetryClaude does not have the ability to run the code it generates yet.D
+# Verify the upload
+aws s3 ls s3://pratheba.com-bucket/
+```

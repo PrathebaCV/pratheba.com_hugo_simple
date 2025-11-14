@@ -3,7 +3,7 @@ title: "AWS Systems Manager Sub-Services Overview"
 description: "Comprehensive guide to AWS Systems Manager sub-services and their operational capabilities"
 image: "/images/it-ss/systems-manager.png"
 date: 2024-11-13T20:00:00Z
-draft: true
+draft: false
 authors: ["Pratheba"]
 tags: ["AWS", "Systems Manager", "Operations", "Monitoring", "Management"]
 categories: ["Technology"]
@@ -13,21 +13,30 @@ categories: ["Technology"]
 
 This document provides an overview of the various sub-services available within AWS Systems Manager for operational management and monitoring.
 
-## Explorer: 
+## AWS Systems Manager Sub-Services
+
+### **Explorer**
 View an aggregated dashboard of operational data across AWS services.
-## OpsCenter:
- Centralize operational issues (OpsItems) for diagnosis and resolution.
-## CloudWatch Dashboard: 
+
+### **OpsCenter**
+Centralize operational issues (OpsItems) for diagnosis and resolution.
+
+### **CloudWatch Dashboard**
 Monitor and visualize metrics across multiple AWS services in real-time.
-## Incident Manager: 
+
+### **Incident Manager**
 Automate incident response plans for faster resolution of critical issues.
-## Application Manager: 
+
+### **Application Manager**
 Manage and visualize your application resources in one centralized location.
-## AppConfig: 
+
+### **AppConfig**
 Safely deploy configuration changes to applications across environments.
-## Parameter Store: 
+
+### **Parameter Store**
 Securely store and manage configuration data and secrets.
-## Change Manager: 
+
+### **Change Manager**
 Automate and approve changes in a controlled, auditable manner.
 ## Automation: 
 Automate common maintenance tasks such as restarting instances.

@@ -13,47 +13,96 @@ categories: ["Technology"]
 
 This guide provides step-by-step instructions for installing and configuring Apache web server on Ubuntu Server 24.
 
-## Install Apache Web Server
+## Apache Web Server Installation
 
-### Installation
-   ```bash
-   sudo apt update
-   sudo apt install -y apache2
-   ```
-### Start-Enable-Status
+### Step 1: Update System and Install Apache
+```bash
+# Update package repository
+sudo apt update
 
+# Install Apache web server
+sudo apt install -y apache2
 ```
+
+### Step 2: Start and Enable Apache Service
+```bash
+# Start Apache service
 sudo systemctl start apache2
+
+# Enable Apache to start on boot
 sudo systemctl enable apache2
+
+# Check Apache service status
 sudo systemctl status apache2
 ```
-## Web file deployment 
-From your host computer (Windows/Mac/Linux)
+## Web File Deployment
+
+### Step 3: Transfer Files from Host Computer
+From your host computer (Windows/Mac/Linux), transfer files to the server:
 ```bash
+# Copy files via SCP (adjust port number as needed)
 scp -P 2204 -r /home/pratheba/Documents/devwebsite pratheba@localhost:/home/pratheba
 ```
-In the Virtualbox use
-```bash
-ls /home/pratheba/
-```
-to check if the file/folder is moved to local host
 
-We cant move the files directly to web files folder. Hence move it in a temporary place and then move it to /
-var/www/html
-### Copy to var/www/html
+### Step 4: Verify File Transfer
+In the Ubuntu Server, verify files were transferred:
 ```bash
+# List files in home directory
+ls -la /home/pratheba/
+
+# Check the transferred directory
+ls -la /home/pratheba/devwebsite/
+```
+
+### Step 5: Copy to Web Root Directory
+Copy files to Apache's web root directory:
+```bash
+# Copy website files to web root
 sudo cp -r /home/pratheba/devwebsite /var/www/html/
+
+# Verify the copy operation
+ls -la /var/www/html/
 ```
-## Set ownership for Apache
+## Set Proper Permissions
+
+### Step 6: Configure File Ownership
+Set correct ownership for Apache to serve the files:
 ```bash
-sudo chown www-data:www-data /var/www/html/devwebsite
+# Set ownership to Apache user and group (www-data on Ubuntu)
+sudo chown -R www-data:www-data /var/www/html/devwebsite
+
+# Verify ownership change
+ls -la /var/www/html/devwebsite
 ```
-## Set ownership for the folder
+
+### Step 7: Set File Permissions
+Configure appropriate file and directory permissions:
 ```bash
-sudo chmod 755 /var/www/html/devwebsite
+# Set directory permissions (755 = rwxr-xr-x)
+sudo find /var/www/html/devwebsite -type d -exec chmod 755 {} \;
+
+# Set file permissions (644 = rw-r--r--)
+sudo find /var/www/html/devwebsite -type f -exec chmod 644 {} \;
 ```
-## Check with the web browser
-- use 
+
+## Testing the Website
+
+### Step 8: Access Your Website
+Test your website in a web browser:
+```bash
+# Test from command line
+curl http://localhost/devwebsite/
+
+# Or access via browser at:
+# http://localhost:8004/devwebsite/index.html
+# http://your-server-ip/devwebsite/
 ```
- localhost:8004/devwebsite/index.html
+
+### Troubleshooting
+```bash
+# Check Apache error logs if issues occur
+sudo tail -f /var/log/apache2/error.log
+
+# Restart Apache if needed
+sudo systemctl restart apache2
 ```
